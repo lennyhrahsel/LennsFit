@@ -1,0 +1,6 @@
+{
+  "name": "LennsFit",
+  "description": "Desktop health log software for Windows 10 & Web. Easily record, view, import from Excel, and export to Excel or PDF with vitals analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
